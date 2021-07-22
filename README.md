@@ -1,2 +1,3 @@
-# TXT_ou_PDF_vers_JSON
-Segmentation du texte de fichiers TXT ou PDF (océrisés) et transformation au format JSON
+Ce carnet propose de segmenter le texte de fichiers TXT ou PDF (océrisés) contenus dans un dossier source.
+
+Pour chaque fichier, le résultat est un fichier au format JSON créé dans le dossier de destination, comportant les blocs de texte segmentés. 
