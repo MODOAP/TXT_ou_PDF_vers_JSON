@@ -1,3 +1,4 @@
-Ce carnet propose de segmenter le texte de fichiers TXT ou PDF (océrisés) contenus dans un dossier source.
+MODOAP - Détection d'objets dans les images d'un corpus
 
-Pour chaque fichier, le résultat est un fichier au format JSON créé dans le dossier de destination, comportant les blocs de texte segmentés. 
+Ce notebook permet de détecter et extraire des objets présents dans les images d'un corpus situé sur un Google Drive.
+Les objets détectés correspondent aux 80 classes issues du corpus COCO
